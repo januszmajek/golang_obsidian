@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4059cb3f9b426c9",
+        "id": "13a18be591f94927",
         "type": "tabs",
         "children": [
           {
-            "id": "90708bcf25c6c223",
+            "id": "120be8feaf90a8aa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,8 +179,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "90708bcf25c6c223",
+  "active": "120be8feaf90a8aa",
   "lastOpenFiles": [
+    "Clippings/How I use Obsidian.md",
     "Welcome.md"
   ]
 }
